@@ -8,7 +8,7 @@ __pycache__/
 *$py.class
 
 # Folders
-genAudio/*
+genAudio/
 
 # C extensions
 *.so
